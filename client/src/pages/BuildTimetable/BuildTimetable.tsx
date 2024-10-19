@@ -71,8 +71,12 @@ function BuildTimetable() {
             )}
           />
         </Section>
+
+        <input type="text" id="timetable_name" name="timetable_name"><br><br>
       </div>
     </Layout>
+
+
   );
 }
 
